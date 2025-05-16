@@ -1,2 +1,2 @@
 # BlockChainProject
-เป็น Projcet เกียวกับการใช้ BlockChain สร้างและเก็บใบประกาศนียบัตร
+A blockchain-based project for creating and storing certificates, featuring a basic database and a simple web interface.
